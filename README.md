@@ -8,7 +8,7 @@ Puedes seguirme en mis redes para mas proyectos
 
 A few resources to get you started if this is your first Flutter project:
 
-- [FACEBOOK](https://www.facebook.com/fraveProgrammer)
+- [FACEBOOK](https://www.facebook.com/fraveDeveloper)
 - [INSTAGRAM](https://www.instagram.com/frave_developer/)
 
 ## Screenshots
